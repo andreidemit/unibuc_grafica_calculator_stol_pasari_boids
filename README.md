@@ -2,7 +2,7 @@
 ## Autor Andrei Demit
 ---
 
-Proiect de grafică pe calculator - Simulare Boids
+# Proiect de grafică pe calculator - Simulare Boids
 
 ## Descriere Generală
 
