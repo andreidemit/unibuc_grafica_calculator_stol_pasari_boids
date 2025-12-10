@@ -1,8 +1,6 @@
-# Stol de Păsări - Simulare Boids
+# SProiect de grafică pe calculator: Stol de Păsări - Simulare Boids
 ## Autor Andrei Demit
 ---
-
-# Proiect de grafică pe calculator - Simulare Boids
 
 ## Descriere Generală
 
