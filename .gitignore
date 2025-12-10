@@ -1,0 +1,24 @@
+# Compiled binary
+stolPasari
+
+# Object files
+obj/
+*.o
+
+# Dependencies
+*.d
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Debug files
+*.dSYM/
