@@ -1,4 +1,8 @@
 # Stol de Păsări - Simulare Boids
+## Autor Andrei Demit
+---
+
+Proiect de grafică pe calculator - Simulare Boids
 
 ## Descriere Generală
 
@@ -356,11 +360,3 @@ make run
 *Stolul de păsări formând un grup coeziv, cu nori în fundal și variații de orientare.*
 
 ![Rezultat Simulare](screenshots/rezultat_simulare.png)
-
----
-
-## Autor
-
-Proiect de grafică pe calculator - Simulare Boids
-
----
